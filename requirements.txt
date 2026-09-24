@@ -1,0 +1,14 @@
+# DND Live Map Overlay
+# Requires Python 3.12 or 3.13 (Python 3.14 is not yet compatible with Kivy)
+#
+# Setup:
+#   python3.12 -m venv venv
+#   venv\Scripts\activate
+#   pip install -r requirements.txt
+#
+# Run:
+#   python dnd5eLive.py
+
+kivy
+numpy
+ffpyplayer
